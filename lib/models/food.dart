@@ -12,7 +12,7 @@ class Food {
       Food('ชาบู', 'Chabu', 89, 'chabu'),
       Food('ซูซิ', 'Sushi', 39, 'sushi'),
       Food('สเต็ก', 'Steak', 69, 'steak'),
-      Food('หมูกระทะป๊ะปุ๊', 'Roti', 199, 'roti'),
+      Food('หมูกระทะป๊ะปุ๊', 'pork', 199, 'pork'),
     ];
   }
 }
